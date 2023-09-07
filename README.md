@@ -17,33 +17,33 @@
 
 ## 🗃 Repositórios principais
 
-### [GraphQL (Middleware)] (https://github.com/RenanTafner/Trabalho5ArquiteturaBackend-MiddlewareGraphQL)
+### [GraphQL (Middleware)](https://github.com/RenanTafner/Trabalho5ArquiteturaBackend-MiddlewareGraphQL)
 
 Resposável por orquestrar operações no banco de dados usando GraphQL.
 
 #### 📋 Tecnologias utilizadas:
-- [Javascript] (https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-- [Apollo Server] (https://www.apollographql.com/)
-- [GraphQL] (https://graphql.org/)
+- [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [Apollo Server](https://www.apollographql.com/)
+- [GraphQL](https://graphql.org/)
 
-### [AWS Lambda (Backend)] (https://github.com/RenanTafner/Trabalho5ArquiteturaBackend-BackendAWSLambdaServerless)
+### [AWS Lambda (Backend)](https://github.com/RenanTafner/Trabalho5ArquiteturaBackend-BackendAWSLambdaServerless)
 
-Responsável por processar as solicitações do [GraphQL (Middleware)] (https://github.com/RenanTafner/Trabalho5ArquiteturaBackend-MiddlewareGraphQL) e deter a lógica de negócios vinculadas a diferentes endpoints.
+Responsável por processar as solicitações do [GraphQL (Middleware)](https://github.com/RenanTafner/Trabalho5ArquiteturaBackend-MiddlewareGraphQL) e deter a lógica de negócios vinculadas a diferentes endpoints.
 
 #### 📋 Tecnologias utilizadas:
-- [Javascript] (https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-- [Express] (https://expressjs.com/pt-br/)
-- [Serverless] (https://www.serverless.com/)
-- [API DynamoDB] (https://docs.aws.amazon.com/pt_br/sdk-for-javascript/v2/developer-guide/dynamodb-examples.html)
+- [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [Express](https://expressjs.com/pt-br/)
+- [Serverless](https://www.serverless.com/)
+- [API DynamoDB](https://docs.aws.amazon.com/pt_br/sdk-for-javascript/v2/developer-guide/dynamodb-examples.html)
 
 
-### [Websockets (Frontend)] (https://github.com/RenanTafner/Trabalho5ArquiteturaBackend-FrontendWebSockets)
+### [Websockets (Frontend)](https://github.com/RenanTafner/Trabalho5ArquiteturaBackend-FrontendWebSockets)
 
 Responsável pela interface visual e lógica para utilização do Middleware usando WebSockets.
 
 #### 📋 Tecnologias utilizadas:
-- [Javascript] (https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-- [Express] (https://expressjs.com/pt-br/)
-- [Socket.IO] (https://socket.io/)
+- [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [Express](https://expressjs.com/pt-br/)
+- [Socket.IO](https://socket.io/)
 
 
