@@ -13,6 +13,7 @@ O frontend do sistema é uma interface de usuário estática e responsiva que ut
 
 ### Middleware com GraphQL:
 O middleware atua como uma camada intermediária que gerencia as solicitações e as respostas entre o frontend e os serviços de backend. Ele é construído com GraphQL, facilitando a consulta de dados específicos e a atualização em tempo real das enquetes em exibição.
+<br><br>
 
 ### Serviço Lambda na AWS
 Os serviços de backend são hospedados na Amazon Web Services (AWS) usando o AWS Lambda. Esses serviços fornecem as funcionalidades essenciais do sistema. A escalabilidade automática da AWS Lambda garante que o sistema possa lidar com cargas de tráfego variáveis.
