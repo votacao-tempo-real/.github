@@ -14,8 +14,8 @@ Este é um sistema de votação de enquetes em tempo real, implementado com uma 
 
 ## 🎯 Objetivos 
 
-- Objetivo Geral: 
-- Objetivo Específico:
+- Objetivo Geral: Criar um aplicação de votação de enquetes em tempo real.
+- Objetivo Específico: Fornecer um exemplo de implementação utilizando comunicação em 3 camadas de tecnologias diferentes (AWS Lambda, GraphQL e WebSockets).
 
 ## 🗃 Repositórios principais
 
